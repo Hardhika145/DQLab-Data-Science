@@ -1,2 +1,2 @@
-# DQLab-Data_Science
+# DQLab-Data-Science
 Materi Premium DQLab
